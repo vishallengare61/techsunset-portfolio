@@ -77,7 +77,7 @@ const Home = () => {
                                     </span>
                                     <div className="ms-3">
                                         <p className="mb-0 text-muted small">Phone</p>
-                                        <span className="bold">+91 8806014060</span>
+                                        <span className="bold">+91 8081440364</span>
                                     </div>
                                 </div>
                                 <div className="d-flex align-items-center">
@@ -127,7 +127,7 @@ const Home = () => {
                 </div>
             </div>
 
-            <a href="https://wa.me/918806014060" target="_blank" rel="noopener noreferrer" className="whatsapp-float" style={{textDecoration: 'none'}}>
+            <a href="https://wa.me/918081440364" target="_blank" rel="noopener noreferrer" className="whatsapp-float" style={{textDecoration: 'none'}}>
                 <i className="ri-whatsapp-line whatsapp-icon"></i>
             </a>
 

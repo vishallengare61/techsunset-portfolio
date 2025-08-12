@@ -77,10 +77,11 @@ const Contact = () => {
                             </span>
                             <div className="ms-3">
                                 <p className="mb-0 text-muted small">Phone</p>
-                                <span className="bold">+91 8806014060</span>
+                                <span className="bold">+91 8081440364</span>
                             </div>
                         </div>
                     </div>
+                    
                     <div className="col-md-6">
                         <div className="mb-3 d-flex align-items-center">
                             <span className="icon-box">
@@ -89,11 +90,11 @@ const Contact = () => {
                             <div className="ms-3">
                                 <p className="mb-0 text-muted small">LinkedIn</p>
                                 <span className="bold">
-                                    <a href="https://www.linkedin.com/in/vishal342" target="_blank" rel="noopener noreferrer" style={{textDecoration: 'none'}}
+                                    <a href="https://www.linkedin.com/in/er-vishal/" target="_blank" rel="noopener noreferrer" style={{textDecoration: 'none'}}
                                     // <a href="https://www.linkedin.com/in/vishal-lengare" target="_blank" rel="noopener noreferrer" style={{textDecoration: 'none'}}
                                     className='text-muted'
                                     >
-                                        www.linkedin.com/in/vishal-546443
+                                        https://www.linkedin.com/in/er-vishal/
                                     </a>
                                 </span>
                             </div>
