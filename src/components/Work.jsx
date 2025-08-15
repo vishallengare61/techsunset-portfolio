@@ -2,15 +2,25 @@ import React from 'react';
 
 const Work = ({display}) => {
     const works = [
-        { id: 1, title: "amararaja.com", image: 'assets/amararaja.jpg', link: 'https://www.amararaja.com/' },
-        { id: 2, title: "advance skin-hair clinic", image: "assets/skinclinic.jpg", link: 'https://www.advanceskinhairclinic.com/' },
-        { id: 3, title: "ProFlowers", image: "assets/proflowers.jpg", link: 'https://www.proflowers.com/' },
-        { id: 4, title: "MagicPin", image: "assets/magicpin.jpg", link: 'https://www.magicpin.in/' },
-        { id: 5, title: "KrishnaAayurveda", image: "assets/yurveda.jpg", link: 'https://krishnaayurved.com/' },
-        { id: 6, title: "FruitBae", image: "assets/fruit.jpg", link: 'https://www.fruitbae.com/' },
+        { id: 1, title: "Ferns N Petals (FNP)", image: 'assets/www.fnp.com_.png', link: 'https://www.fnp.com/' },
+        { id: 2, title: "Sri Chaitanya SCORE 2025", image: "assets/srichaitanyascore.com_.png", link: 'https://srichaitanyascore.com/' },
+        { id: 3, title: "Furlenco", image: "assets/www.livspace.com_in.png", link: 'https://www.livspace.com/in' },
+        { id: 4, title: "Furlenco", image: "assets/www.furlenco.com_.png", link: 'https://www.furlenco.com/' },
+        { id: 5, title: "HomeLane", image: "assets/www.homelane.com_.png", link: 'https://www.homelane.com/' },
+        { id: 6, title: "Podar Education", image: "assets/www.podareducation.org_.png", link: 'https://www.podareducation.org/' },
         { id: 7, title: "FeedoCenter", image: "assets/feed.png", link: 'https://www.fruitbae.com/' },
-        { id: 8, title: "EarnX", image: "assets/earnx.png", link: 'https://earnxj.vercel.app/' },
+        { id: 8, title: "amararaja.com", image: 'assets/amararaja.jpg', link: 'https://www.amararaja.com/' },
     ];
+    // const works = [
+    //     { id: 1, title: "amararaja.com", image: 'assets/amararaja.jpg', link: 'https://www.amararaja.com/' },
+    //     { id: 2, title: "advance skin-hair clinic", image: "assets/skinclinic.jpg", link: 'https://www.advanceskinhairclinic.com/' },
+    //     { id: 3, title: "ProFlowers", image: "assets/proflowers.jpg", link: 'https://www.proflowers.com/' },
+    //     { id: 4, title: "MagicPin", image: "assets/magicpin.jpg", link: 'https://www.magicpin.in/' },
+    //     { id: 5, title: "KrishnaAayurveda", image: "assets/yurveda.jpg", link: 'https://krishnaayurved.com/' },
+    //     { id: 6, title: "FruitBae", image: "assets/fruit.jpg", link: 'https://www.fruitbae.com/' },
+    //     { id: 7, title: "FeedoCenter", image: "assets/feed.png", link: 'https://www.fruitbae.com/' },
+    //     { id: 8, title: "EarnX", image: "assets/earnx.png", link: 'https://earnxj.vercel.app/' },
+    // ];
 
     return (
         <div>
